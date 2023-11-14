@@ -1,0 +1,179 @@
+p{
+    margin:0px;
+}
+
+body{
+    margin: 0px ;
+    padding: 0px;
+}
+
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap'); */
+
+
+/* @font-face {
+    font-family: Inter;
+    src: url("fonts/Inter-VariableFont_slnt,wght.ttf");
+  }
+  */
+  
+  /* p,h1,h2,h3,h4,h5,h6,a{
+    font-family: 'Roboto', sans-serif;
+  }  */
+
+.navbarinfo a{
+    color: aliceblue;
+    text-decoration: none;
+padding-left: 33px;
+    font-size: 21px;
+     
+}
+.navbarinfo{
+    margin-top:30px;
+      
+}
+.navbar{
+    background-color: #fe6a82;
+    
+}
+.space{
+    margin-left: 300px;
+   
+}
+.button{
+    margin-left: 200px;
+    margin-top:30px;
+    
+}
+.forfont{
+    font-size:43px;
+    color: azure;
+}
+.paragraph{
+    width: 50%;
+    margin-left:10%;
+    margin-top:15% ;
+    
+}
+.box{
+
+    width: 400px;
+    height: 200px;
+    border: 1px solid gainsboro;
+    padding: 23px;
+    padding-top: 100px;;
+    background: white;
+    margin: 10px;
+    border-radius: 6px;
+
+}
+.boxmargin{
+    margin-left: 44px;
+}
+.secondparagraph{
+    width: 50%;
+    padding-top:250px ;
+    padding-left:60px;
+    font-size: 20px;
+}
+.forimage{
+    width:50%;
+}
+.thirdparagraph{
+    width: 50%;
+    padding-top:250px ;
+    padding-right:60px;
+    font-size: 20px;
+
+}
+.nextdiv{
+
+   background-color: #fe6a82 ;
+   color: white;
+}
+.listst li{
+    padding-left:140px;
+    font-size: 34px;
+
+}
+.listst{
+    margin-left:350px;
+}
+.secondlistst li{
+    font-size:16px;
+    padding-left:140px;
+}
+.secondlistst{
+    margin-left:350px;
+}
+.longbox1{
+        background-color:beige;
+        height:500px;
+        width:340px;
+        border: 1px solid black;
+        margin-right:20px;
+        border-radius:6px;
+        padding: 12px;
+}
+.fourbutton{
+    width:100%;
+    height: 43px;
+    background-color:black;
+    color:white;
+    border-radius:6px;
+    
+
+}
+.thirdimgdiv {
+  
+  width:45%;
+  margin:0px auto;
+  
+}
+.threeimg {
+    margin-right:40px;
+    height: 300px;
+    width:400px;
+}
+.logoimg{
+    
+    height: 3%;
+    width: 10%;
+    
+    margin: 0px auto;
+
+}
+.property{
+    text-align:center;
+    
+}
+.bst:hover{
+    background-color: black;
+    color:white;
+}
+.bst2:hover{
+    background-color: #fe6a82;
+    color: azure;
+}
+.shownone{
+
+    display:none;
+}
+.longwidthbox:hover + .shownone{
+    display:block  !important;
+}
+.forcenter{
+    width:50%;
+    margin:0px auto;
+    text-align:center;
+}
+.decoration{
+    text-decoration: none;
+}
+
+.lasthovercolor li:hover{
+    color: #fe6a82;
+}
+
+.startbtn button:hover {
+    background-color:black;
+    }
